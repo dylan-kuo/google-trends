@@ -2,7 +2,7 @@
 
 MET CS688 A1 Web Analytics and Mining
 Google-Trends Lab Project
-------------------------------
+
 Using Google Trends data and R code to explore the following topic: <br>
 • Compare US interest in “gift for boyfriend”(GB) vs. “gift for girlfriend”(GG) over the last 5 years.<br>
 – Q1: Which are the states where GG is smaller than 1? Find those and replace them with zero. <br/>
