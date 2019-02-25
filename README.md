@@ -14,3 +14,5 @@ Using Google Trends data and R code to explore the following topic: <br>
 
 
 ![alt tag](https://github.com/dylan-kuo/google-trends/blob/master/Bar_Plot_GG_GB.JPG)
+
+
